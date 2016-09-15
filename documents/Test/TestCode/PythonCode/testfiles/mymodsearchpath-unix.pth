@@ -1,4 +1,5 @@
 # directories to add to the module search path
+# Copy this file for Mac and Linux to  /Library/Python/2.7/site-packages
 # replace $location with the path to your svn repository.
 $location/svn/documents/Test/TestCode/PythonCode/code/local
 $location/svn/documents/Test/TestCode/PythonCode/code/local/firefox
